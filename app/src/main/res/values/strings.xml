@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoPlayCust</string>
+    <string name="autoplay">Auto Play Settings</string>
+    <string name="stop_auto">Stop Auto Play</string>
+    <string name="single_win">If single win exceeds:</string>
+    <string name="balance_inc">If balance increases by:</string>
+    <string name="balance_dec">If balance decreases by:</string>
+    <string name="on_any">Stop on any win</string>
+    <string name="free_spin">Stop if free spin won</string>
+    <string name="any_win">Any win</string>
+    <string name="bonus">Bonus Trigger</string>
+    <string name="jackpot">Jackpot Trigger</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/cnt_mnu_edit"
+        android:title="más valami"
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_share"
+        android:title="valami"
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_delete"
+        android:title="még valami"
+        />
+</menu>
